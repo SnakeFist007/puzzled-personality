@@ -1,6 +1,6 @@
 # The Puzzle of Personality
 
-Various resources for my typology guide over at http://typology.snakefist.de/
+## Work-in-Progress!
 
 ## Enneagram Colors
 - Green       #2fafa1
